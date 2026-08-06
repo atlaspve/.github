@@ -15,8 +15,9 @@ AtlasPVE makes your Proxmox VE infrastructure local, visible, auditable and safe
 
 The agent that runs on your host is AGPL licensed and installs as readable source you can inspect on your own machine. The product's analysis engine and interface are proprietary.
 
-### Links
+### Explore
 
-- Website: https://atlaspve.com
-- Live demo: https://demo.atlaspve.com
-- Account portal: https://portal.atlaspve.com
+- Product overview: [github.com/atlaspve/atlas](https://github.com/atlaspve/atlas)
+- Website: [atlaspve.com](https://atlaspve.com)
+- Live demo: [demo.atlaspve.com](https://demo.atlaspve.com)
+- Account portal: [portal.atlaspve.com](https://portal.atlaspve.com)
